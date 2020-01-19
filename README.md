@@ -1,11 +1,21 @@
-# Digital Clock
+The clock has 1/1000 chance every second to spawn a "easter egg":
 
-This app is an example of a digital clock.
-It has a light theme and a dark theme.
-See the [Analog Clock](../analog_clock) if you'd like an example that displays the weather and location.
+<img src='assets/airplane.png'>
 
-<img src='digital.gif' width='350'>
+<img src='assets/balloon.png'>
 
-<img src='digital_dark.png' width='350'>
+<img src='assets/helicopter.png'>
 
-<img src='digital_light.png' width='350'>
+<img src='assets/hotair_balloon.png'>
+
+<img src='assets/racecar.png'>
+
+<img src='assets/rocket.png'>
+
+<img src='assets/satellite.png'>
+
+<img src='assets/spaceman.png'>
+
+<img src='assets/tractor.png'>
+
+<img src='assets/ufo.png'>
