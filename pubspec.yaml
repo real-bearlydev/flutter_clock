@@ -1,0 +1,47 @@
+name: digital_clock
+description: Digital clock.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_clock_helper:
+    path: ../flutter_clock_helper
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: SourceSansPro
+      fonts:
+        - asset: assets/SourceSansPro-Regular.ttf
+  assets:
+    - assets/sun_core.png
+    - assets/sun_flare.png
+    - assets/star.png
+    - assets/moon.png
+    - assets/cloud.png
+    - assets/cloud_rain.png
+    - assets/cloud_fog.png
+    - assets/raindrop.png
+    - assets/snowflake.png
+    - assets/lightning.png
+    - assets/fog.png
+    - assets/wind.png
+    - assets/balloon.png
+    - assets/satellite.png
+    - assets/ufo.png
+    - assets/hotair_balloon.png
+    - assets/airplane.png
+    - assets/spaceman.png
+    - assets/helicopter.png
+    - assets/racecar.png
+    - assets/tractor.png
+    - assets/rocket.png
