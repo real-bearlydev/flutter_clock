@@ -1,4 +1,4 @@
-The clock has 1/1000 chance every second to spawn a "easter egg":
+The clock has 1/1000 chance every second to spawn a surprise or "easter egg":
 
 <img src='assets/airplane.png' width='150'>
 
